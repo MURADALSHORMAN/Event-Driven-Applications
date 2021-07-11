@@ -1,0 +1,27 @@
+{
+  "name": "Event-Driven-Applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --verbose --coverage "
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MURADALSHORMAN/Event-Driven-Applications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MURADALSHORMAN/Event-Driven-Applications/issues"
+  },
+  "homepage": "https://github.com/MURADALSHORMAN/Event-Driven-Applications#readme"
+}
